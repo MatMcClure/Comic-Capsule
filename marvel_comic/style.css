@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+
+
+.jumbotron {
+    background-color: #000000;
+}
+
+.search-box {
+    border-radius: 0;
+    background-color: black;
+}
+
+.search-button {
+    border-radius: 0;
+    background-color: black;
+    border-color: white;
+}
+
+#characterMainTitle, #comicMainTitle {
+    color: white;
+}
+
+.card {
+    background-color: black;
+    border: none;
+    border-radius: 2px;
+}
+
+.container {
+    width: 50%;
+    height: 50%;
+}
